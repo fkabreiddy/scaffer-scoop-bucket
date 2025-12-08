@@ -7,7 +7,9 @@
         "64bit": {
             "url": "https://github.com/fkabreiddy/Scaffer/releases/download/v1.0.0/scaffer-win-x64-v1.0.0.zip",
             "hash": "23adf04fe9c610074b014cc65598338f279a93441e3ad54c6c60ebd1dfeb5254",
-            "bin": "Scaffer.CLI.exe"
+            "bin": "bin": [
+                                ["Scaffer.CLI.exe", "scaffer"]
+                            ]
         }
     },
     "checkver": "github",
