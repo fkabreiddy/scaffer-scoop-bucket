@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/fkabreiddy/Scaffer/releases/download/v1.0.1/scaffer-win-x64-v1.0.1.zip",
-            "hash": "d1512f2e3a26c052f8d3e0b0f1cf71ce273c6468519dd57159fa45a603874ea6 ",
+            "hash": "d1512f2e3a26c052f8d3e0b0f1cf71ce273c6468519dd57159fa45a603874ea6",
             "bin": [
                     ["Scaffer.CLI.exe", "scaffer"]
                 ]
