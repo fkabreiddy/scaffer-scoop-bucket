@@ -1,12 +1,12 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Universal scaffolding generator CLI",
     "homepage": "https://github.com/fkabreiddy/Scaffer",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fkabreiddy/Scaffer/releases/download/v1.0.2/scaffer-win-x64-v1.0.2.zip",
-            "hash": "b8c734b46066f177004ac6103bbbcf07cc6c54026be453b80afabf4c4eb44f79",
+            "url": "https://github.com/fkabreiddy/Scaffer/releases/download/v1.0.3/scaffer-win-x64-v1.0.3.zip",
+            "hash": "faacbd728cde3814322e38ff1b52847d2205fbec045c630f081a60dc9505d0f7",
             "bin": [
                     ["Scaffer.CLI.exe", "scaffer"]
                 ]
